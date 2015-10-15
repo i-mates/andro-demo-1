@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="1.8" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/alert_dialog" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/calculation" />
+            <option value="$PROJECT_DIR$/calculation2" />
+            <option value="$PROJECT_DIR$/camera" />
+            <option value="$PROJECT_DIR$/checkboxradio" />
+            <option value="$PROJECT_DIR$/customdialog" />
+            <option value="$PROJECT_DIR$/datastorefileretrive" />
+            <option value="$PROJECT_DIR$/designfragment" />
+            <option value="$PROJECT_DIR$/dropdown1" />
+            <option value="$PROJECT_DIR$/droupdownlist" />
+            <option value="$PROJECT_DIR$/expandablelist" />
+            <option value="$PROJECT_DIR$/expandnev" />
+            <option value="$PROJECT_DIR$/flashscreen" />
+            <option value="$PROJECT_DIR$/list" />
+            <option value="$PROJECT_DIR$/list1" />
+            <option value="$PROJECT_DIR$/navigationDrawer" />
+            <option value="$PROJECT_DIR$/navigationDrawerq" />
+            <option value="$PROJECT_DIR$/navigationexpandable" />
+            <option value="$PROJECT_DIR$/progressbar" />
+            <option value="$PROJECT_DIR$/radiobutton" />
+            <option value="$PROJECT_DIR$/seekbardemo" />
+            <option value="$PROJECT_DIR$/sidebarmenu" />
+            <option value="$PROJECT_DIR$/sidemenu" />
+            <option value="$PROJECT_DIR$/simplelist" />
+            <option value="$PROJECT_DIR$/slidingdrawer" />
+            <option value="$PROJECT_DIR$/sound" />
+            <option value="$PROJECT_DIR$/soundstuff" />
+            <option value="$PROJECT_DIR$/tabs" />
+            <option value="$PROJECT_DIR$/tabscroll" />
+            <option value="$PROJECT_DIR$/test" />
+            <option value="$PROJECT_DIR$/toggle" />
+            <option value="$PROJECT_DIR$/videotest" />
+            <option value="$PROJECT_DIR$/webtest" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
